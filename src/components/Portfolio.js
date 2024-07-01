@@ -26,27 +26,27 @@ const Portfolio = () => {
       image: 'https://via.placeholder.com/150',
       link: 'https://github.com/your-username/project-three'
     },
-    {
-      id: 4,
-      title: 'Project Four',
-      description: 'Description for project four.',
-      image: 'https://via.placeholder.com/150',
-      link: 'https://github.com/your-username/project-four'
-    },
-    {
-      id: 5,
-      title: 'Project Five',
-      description: 'Description for project five.',
-      image: 'https://via.placeholder.com/150',
-      link: 'https://github.com/your-username/project-five' 
-    },
-    {
-      id: 6,
-      title: 'Project Six',
-      description: 'Description for project six.',
-      image: 'https://via.placeholder.com/150',
-      link: 'https://github.com/your-username/project-six' 
-    }
+    // {
+    //   id: 4,
+    //   title: 'Project Four',
+    //   description: 'Description for project four.',
+    //   image: 'https://via.placeholder.com/150',
+    //   link: 'https://github.com/your-username/project-four'
+    // },
+    // {
+    //   id: 5,
+    //   title: 'Project Five',
+    //   description: 'Description for project five.',
+    //   image: 'https://via.placeholder.com/150',
+    //   link: 'https://github.com/your-username/project-five' 
+    // },
+    // {
+    //   id: 6,
+    //   title: 'Project Six',
+    //   description: 'Description for project six.',
+    //   image: 'https://via.placeholder.com/150',
+    //   link: 'https://github.com/your-username/project-six' 
+    // }
   ];
 
   return (

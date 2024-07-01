@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <div className="hero" style={{ backgroundImage: `url(${heroImage})` }}>
       <div className="hero-content">
-        <h1>Welcome to My Website!</h1>
+        <h1>Welcome to My Portfolio!</h1>
         <p>Explore my projects & learn about me!</p>
       </div>
     </div>

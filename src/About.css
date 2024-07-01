@@ -7,7 +7,7 @@ body{
     width: 50%;
     margin: 0 auto;
     margin-top: 25px;
-    padding: 20px;
+    padding: 2px;
     border: 1px solid #000;
     /* text-align: center; */
     box-shadow: 0 0 10px white;
@@ -16,11 +16,13 @@ body{
   
   h1 {
     margin-bottom: 20px;
-    /* border-bottom: solid 1px black; */
   }
   
   p {
-    font-size: 16px;
+    font-size: 17px;
+    font-weight: 500;
     line-height: 1.5;
+    padding-left: 5px;
+    padding-right: 5px;
   }
   

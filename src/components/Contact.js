@@ -15,7 +15,7 @@ function Contact() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            LinkedIn Profile
+            LinkedIn
           </a>
         </p>
       </div>

@@ -1,8 +1,8 @@
 {
+  "homepage": "https://Foxshane997.github.io/Shane-Fox-Portfolio.github.io",
   "name": "shane-fox-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Foxshane997.github.io/Shane-Fox-Portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

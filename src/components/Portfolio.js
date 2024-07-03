@@ -2,6 +2,7 @@ import React from 'react';
 import '../Portfolio.css';
 import StarWarsQuizImage from '../Star Wars Quiz Screen Shot.png';
 import ToDoImage from '../TO-Do App Screen Shot.png';
+import Hero from './Hero';
 
 const Portfolio = () => {
   const projects = [

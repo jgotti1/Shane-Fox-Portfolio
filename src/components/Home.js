@@ -5,6 +5,7 @@ import HeroBackground from "../HeroBackground.jpg"
 function HomePage() {
   return (
     <div>
+      
       <Hero
         backgroundImage={HeroBackground}
         title="Welcome to My Website"
